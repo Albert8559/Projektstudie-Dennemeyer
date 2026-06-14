@@ -23,7 +23,7 @@ def score_party(name):
         score=5
     if any(t in n for t in ['international','group','holdings']):
         score=max(score,7)
-    if any(t in n for t in ['qualcomm','intel','samsung','sony','johnson & johnson','federal express','fedex','lg electronics']):
+    if any(t in n for t in ['qualcomm','intel','samsung','sony','johnson & johnson','federal express','fedex','lg electronics', 'apple']):
         score=10
     return score
 
