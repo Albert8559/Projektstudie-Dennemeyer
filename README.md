@@ -6,5 +6,5 @@ Hier sind alle relevanten Datensätze, sowie die relevanten scripts mit welchen 
 *"csv_date.py" um das Jahr der lawsuit zu bestimmen 
 ## Datasets
 Inflationsangepasste Datensätze zu Patenten:
-*marked
-*non_marked
+* marked
+* non_marked
