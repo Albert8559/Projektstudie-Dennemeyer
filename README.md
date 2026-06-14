@@ -1,4 +1,4 @@
-#Projektstudie Dennmeyer Patentmarking
+# Projektstudie Dennmeyer Patentmarking
 Hier sind alle relevanten Datensätze, sowie die relevanten scripts mit welchen die Daten gewonnen wurden. 
 ## Scripts
 *"Scraper.py" für das scrapen der daten von courtlistner.com
